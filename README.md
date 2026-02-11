@@ -3,7 +3,7 @@
 I am a 20-year-old **Software Developer**, student, and **Creative Professional** based in Cochabamba, Bolivia. I specialize in building mobile solutions that bridge the gap between functional code and high-impact visual design.
 
 ### 🔍 What I do:
-My work focuses on solving real-world problems with a **design-first approach**. With six years of experience as a Graphic Designer, I ensure that every project—from healthcare tools like **BioTimer** and **ChronoLab** to local services like **infomap**—is not only technically robust but also visually intuitive. This includes full branding, logo creation, and digital marketing.
+My work focuses on solving real-world problems with a **design-first approach**. With six years of experience as a Graphic Designer, I ensure that every project from healthcare tools like **BioTimer** and **ChronoLab** to local services like **Infomap** is not only technically robust but also visually intuitive. This includes full branding, logo creation, and digital marketing.
 
 ---
 
