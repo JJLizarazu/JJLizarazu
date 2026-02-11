@@ -17,7 +17,8 @@ My work focuses on solving real-world problems with a **design-first approach**.
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/juanjose___lq) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=juanjoselizarazu2005@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@JUANJOSE___LQ-E4405F?style=for-the-badge&labelColor=555555&logo=instagram&logoColor=white)](https://www.instagram.com/juanjose___lq)
+[![Gmail](https://img.shields.io/badge/GMAIL-JUANJOSELIZARAZU2005@GMAIL.COM-D14836?style=for-the-badge&labelColor=555555&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=juanjoselizarazu2005@gmail.com)
 
 ---
 
